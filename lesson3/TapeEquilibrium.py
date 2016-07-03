@@ -58,4 +58,5 @@ def solution(A):
             minDifference = abs(firstPart - secondPart)
     return minDifference
 if __name__ == '__main__':
-    print(solution(InputType.getRandomSizeIntegerList(2,100000,-1000,1000,True)))
+    # print(solution(InputType.getRandomSizeIntegerList(2,100000,-1000,1000,True)))
+    print('omg')
